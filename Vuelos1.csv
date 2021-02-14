@@ -1,0 +1,4 @@
+Nombre,Pais,Ciudad,Aerolinea,Origen,Destino,Costo,Asientos
+Jose Joaquin de Olmedo,Ecuador ,Guayaquil,Avianca_Ecuador,Guayaquil,Galapagos,$300 ,74
+Jose Joaquin de Olmedo,Ecuador ,Guayaquil,Avianca_Ecuador,Guayaquil,Quito,$100 ,74
+Aeropuerto Seymour,Ecuador ,Loja,LATAM,Loja,Quito,$100 ,62
